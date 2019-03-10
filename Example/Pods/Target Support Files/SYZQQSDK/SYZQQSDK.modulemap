@@ -1,0 +1,6 @@
+framework module SYZQQSDK {
+  umbrella header "SYZQQSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

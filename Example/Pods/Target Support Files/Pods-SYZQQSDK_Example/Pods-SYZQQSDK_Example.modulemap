@@ -1,0 +1,6 @@
+framework module Pods_SYZQQSDK_Example {
+  umbrella header "Pods-SYZQQSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
